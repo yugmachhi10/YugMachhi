@@ -11,7 +11,7 @@ This repository serves as a personal learning space for software engineering. It
 
 - Master the fundamentals of programming and computer science.
 - Gain hands-on experience through personal projects.
-- Learn web development (Frontend & Backend).
+- Learn web development (Full Stack)
 - Understand software engineering principles and best practices.
 - Improve problem-solving skills and participate in coding challenges.
 - Excitd to learn AI/ML
