@@ -1,5 +1,5 @@
 # YugMachhi
-# machhiyug10 - Learning Software Engineering
+# machhiyug10 - Learning Software
 
  This repository is dedicated to my journey in learning software engineering. It includes a collection of resources, projects, and notes that I’ve gathered and worked on throughout my learning process.
 
@@ -14,7 +14,7 @@ This repository serves as a personal learning space for software engineering. It
 - Learn web development (Frontend & Backend).
 - Understand software engineering principles and best practices.
 - Improve problem-solving skills and participate in coding challenges.
-
+- Excitd to learn AI/ML
 ## Installation
 
 Clone the repository to your local machine to explore or contribute to my journey:
