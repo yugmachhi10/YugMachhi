@@ -23,7 +23,7 @@ This is just the beginning, and I'm open to learning from others!
 
 If you want to reach out to me for any collaborations, tips, or discussions, feel free to connect:
 
-- Email: [Your Email]
+- Email: machhiyug10@gmail.com
 - GitHub: [https://github.com/yugmachhi10](https://github.com/yugmachhi10)
 
 ---
