@@ -15,8 +15,6 @@ This repository serves as a personal learning space for software engineering. It
 - Understand software engineering principles and best practices.
 - Improve problem-solving skills and participate in coding challenges.
 - Exceitd to learn AI/ML
-
-
 - ## Contributing
 
 This is just the beginning, and I'm open to learning from others! 
