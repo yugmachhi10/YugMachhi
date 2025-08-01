@@ -14,4 +14,4 @@ This repository serves as a personal learning space for software engineering. It
 - Learn web development (Full Stack)
 - Understand software engineering principles and best practices.
 - Improve problem-solving skills and participate in coding challenges.
-- Excitd to learn AI/ML
+- Exceitd to learn AI/ML
