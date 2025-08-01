@@ -15,3 +15,18 @@ This repository serves as a personal learning space for software engineering. It
 - Understand software engineering principles and best practices.
 - Improve problem-solving skills and participate in coding challenges.
 - Exceitd to learn AI/ML
+-
+-
+- ## Contributing
+
+This is just the beginning, and I'm open to learning from others! If you have suggestions or improvements, feel free to contribute by forking this repo, making changes, and submitting a pull request. I welcome any feedback!
+
+## Contact
+
+If you want to reach out to me for any collaborations, tips, or discussions, feel free to connect:
+
+- Email: [Your Email]
+- GitHub: [https://github.com/yugmachhi10](https://github.com/yugmachhi10)
+
+---
+
