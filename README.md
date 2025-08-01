@@ -1,7 +1,7 @@
 # YugMachhi
 # machhiyug10 - Learning Software Engineering
 
-Welcome to **machhiyug10**! This repository is dedicated to my journey in learning software engineering. It includes a collection of resources, projects, and notes that I’ve gathered and worked on throughout my learning process.
+ This repository is dedicated to my journey in learning software engineering. It includes a collection of resources, projects, and notes that I’ve gathered and worked on throughout my learning process.
 
 ## Overview
 
