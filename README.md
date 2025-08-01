@@ -1,5 +1,5 @@
 # YugMachhi
-# machhiyug10 - Learning Software
+# machhiyug10 - Learning Software And New Technologies
 
  This repository is dedicated to my journey in learning software engineering. It includes a collection of resources, projects, and notes that I’ve gathered and worked on throughout my learning process.
 
@@ -15,10 +15,3 @@ This repository serves as a personal learning space for software engineering. It
 - Understand software engineering principles and best practices.
 - Improve problem-solving skills and participate in coding challenges.
 - Excitd to learn AI/ML
-## Installation
-
-Clone the repository to your local machine to explore or contribute to my journey:
-
-```bash
-git clone https://github.com/your-username/machhiyug10.git
-cd machhiyug10
